@@ -26,7 +26,7 @@ function Users() {
     <div className="d-flex vh-100 bg-info justify-content-center align-items-center">
       <div className="w-75 bg-white rounded p-3">
         <Link to="/create" className="btn btn-success">
-          Add New user +
+          Add New User +
         </Link>
         <table className="table text-center">
           <thead>
